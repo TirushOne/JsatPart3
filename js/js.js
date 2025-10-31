@@ -22,3 +22,5 @@ console.log(hello.concat(myName));
 console.log(anotherString.trim());
 console.log(myString.replace("is a ", " "));
 console.log(myString.split(" "));
+
+//obligitory comment
